@@ -28,6 +28,16 @@ h1 {
     font-size: 72px;
 }
 
+p {
+    font-size: 36px;
+}
+
+
+button{
+   background-color: #05c7cf;
+   color: white;
+   border: none;
+}
 a {
     color: #000;
     font-size: 24px;
