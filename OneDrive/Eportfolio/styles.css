@@ -97,6 +97,9 @@ transition: all 300ms ease;
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .about-me__picture--mask {
@@ -123,5 +126,4 @@ padding-top:8px ;
 .about-me__info--para{
     font-size: 20px;
     margin-bottom: 28px;
-    font-display: 80;
 }
